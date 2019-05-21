@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UI\Scripts\TiltWindow.cs">
+    <Files>
+      <File FileName="Assets\UI\Scripts\TiltWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scrpts\CameraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scrpts\PlayerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scrpts\CoinScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scrpts\MenuScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
